@@ -66,6 +66,12 @@ footer {
     text-align: center;
     padding: 100px 0;
 }
+.head2{
+    color:#000;
+}
+.h3{
+    color: #000;
+}
 
 #about {
     background-color: #fff;
@@ -100,7 +106,7 @@ footer {
 }
 
 .gallery-images img {
-    max-width: 100%;
+    max-width: 20%;
     display: none;
 }
 
